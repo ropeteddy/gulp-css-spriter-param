@@ -1,11 +1,11 @@
 {
-  "name": "gulp-css-spriter",
+  "name": "gulp-css-spriter-custom",
   "version": "0.0.1",
   "description": "Sprite Sheet Generation from CSS source files. The best and different approach to sprite sheets.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kvkens/gulp-css-spriter-param.git"
+    "url": "https://github.com/ropeteddy/gulp-css-spriter-param.git"
   },
   "keywords": [
     "css",
